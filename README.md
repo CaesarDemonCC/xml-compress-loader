@@ -1,0 +1,1 @@
+# xml-compress-loader
