@@ -1,0 +1,11 @@
+{
+  "name": "xml-compress-loader",
+  "version": "0.1.0",
+  "author": "CC<hsbj_email@163.com>",
+  "description": "xml compress loader module for webpack",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/CaesarDemonCC/xml-compress-loader.git"
+  },
+  "license": "MIT"
+}
